@@ -20,4 +20,4 @@ For special cases when a very small digital instance of the logo is required, th
 
 ![Tax Foundation logo, small horizontal size, blue fill.](generated-assets/TaxFoundation-228x35-noBG-RGB-Small-Horizontal.png)
 
-![Tax Foundation logo, smsll size, blue fill.](generated-assets/TaxFoundation-70x44-noBG-RGB-Small.png)
+![Tax Foundation logo, smsll size, blue fill.](generated-assets/TaxFoundation-70x45-noBG-RGB-Small.png)
